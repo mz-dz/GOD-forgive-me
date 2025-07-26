@@ -21,4 +21,4 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/mz-dz/They-forgive.git
+   git clone https://github.com/mz-dz/They-forgive.git](https://github.com/mz-dz/GOD-forgive-me.git
